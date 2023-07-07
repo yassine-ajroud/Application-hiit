@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "640893556568",
+    "project_id": "applicationhiit",
+    "storage_bucket": "applicationhiit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640893556568:android:848c17e892a412b746b72d",
+        "android_client_info": {
+          "package_name": "com.example.applicationahiit_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640893556568-5pu5u8funuma2vhiptrp99em8totso57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.applicationahiit_admin",
+            "certificate_hash": "b39ce4aaea53622018e8ab545f46ed909f3f9ec2"
+          }
+        },
+        {
+          "client_id": "640893556568-jt86ustmplki2vakcmhr0tqcgocdmf5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkfMhW4PRh31fRCVDOehXpS-T1oXqNxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640893556568-jt86ustmplki2vakcmhr0tqcgocdmf5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640893556568-ehqhtkljpcgpnta0ds6qpt8cp1u9hfq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationahiitAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640893556568:android:3965b0e89f4b520446b72d",
+        "android_client_info": {
+          "package_name": "com.example.applicationhiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640893556568-jt86ustmplki2vakcmhr0tqcgocdmf5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSkfMhW4PRh31fRCVDOehXpS-T1oXqNxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640893556568-jt86ustmplki2vakcmhr0tqcgocdmf5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "640893556568-ehqhtkljpcgpnta0ds6qpt8cp1u9hfq6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.applicationahiitAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
